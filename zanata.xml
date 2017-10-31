@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<config xmlns="http://zanata.org/namespace/config/">
+  <url>http://localhost:8080/zanata/</url>
+  <project>ecom</project>
+  <project-version>1.0</project-version>
+  <project-type>gettext</project-type>
+  <trans-dir>trans</trans-dir>
+  <src-dir>po</src-dir>
+</config>
